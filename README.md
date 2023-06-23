@@ -26,8 +26,12 @@ dengan menggunakan command pada css
 }
 
 3. Form Set
-di bagian paling bawah halaman web
-ada form text,text area, label, radio button dan table index
+di bagian paling bawah halaman web terdiri dari 
+form text
+text area
+label
+radio button
+table index
 
 4.css flexbox 
 menggunakan css flex untuk centering dengan perintah
