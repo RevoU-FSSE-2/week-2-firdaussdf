@@ -2,11 +2,15 @@ A. SEMANTICS
 
 1. html ini mengunakan semnatics elements yang terdiri dari
 head
+
 body
+
 header
+
 nav
+
 article
-footer
+
 footer
 
 2.sticky navbar
