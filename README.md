@@ -49,7 +49,7 @@ menggunakan css flex untuk centering dengan perintah
 
 }
 
-5. Responsive web design Media query
+5.Responsive web design Media query
 
    menggunakan perintah pada css untuk menyesuaikan dengan resolusi tablet smartphone
    dan komputer
