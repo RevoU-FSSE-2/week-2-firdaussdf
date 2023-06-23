@@ -1,1 +1,45 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/6H2sAzcR)
+A. SEMANTICS
+
+1. html ini mengunakan semnatics elements yang terdiri dari
+head
+body
+header
+nav
+article
+footer
+footer
+
+2.sticky navbar
+posisi home contact telphone selalu tepat berada di posisi 
+dengan memasukkan command pada css
+.sticky {
+	background-color: #ffffff;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+}
+
+3. Form Set
+di bagian paling bawah halaman web
+ada form text,text area, label, radio button dan table index
+
+4.css flexbox 
+menggunakan css flex untuk centering dengan perintah
+.grid-container
+{ display: flex;
+  align-items: center;
+  align-content: center;
+  flex-direction: column;
+
+}
+
+5. Responsive web design Media query
+   menggunakan perintah pada css untuk menyesuaikan dengan resolusi tablet smartphone
+   dan komputer
+
+
+
+link netifly
+
+https://transcendent-lamington-0c8fbe.netlify.app/
+   
