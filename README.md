@@ -1,7 +1,6 @@
-![web saya pada seluler](https://github.com/RevoU-FSSE-2/week-2-firdaussdf/assets/137057784/817de8a0-3354-4998-bcb7-15bb1304e64c)
-A. SEMANTICS
+1. SEMANTICS
 
-1. html ini mengunakan semnatics elements yang terdiri dari
+html ini mengunakan semnatics elements yang terdiri dari
 head
 
 body
