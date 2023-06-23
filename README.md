@@ -14,8 +14,10 @@ article
 footer
 
 2.sticky navbar
+
 posisi home contact telphone selalu tepat berada di posisi 
-dengan memasukkan command pada css
+dengan menggunakan command pada css
+
 .sticky {
 	background-color: #ffffff;
 	position: -webkit-sticky;
