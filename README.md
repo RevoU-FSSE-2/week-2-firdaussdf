@@ -26,14 +26,20 @@ dengan menggunakan command pada css
 }
 
 3. Form Set
-di bagian paling bawah halaman web terdiri dari 
+di bagian paling bawah halaman web terdiri dari
+ 
 form text
+
 text area
+
 label
+
 radio button
+
 table index
 
 4.css flexbox 
+
 menggunakan css flex untuk centering dengan perintah
 .grid-container
 { display: flex;
@@ -44,6 +50,7 @@ menggunakan css flex untuk centering dengan perintah
 }
 
 5. Responsive web design Media query
+
    menggunakan perintah pada css untuk menyesuaikan dengan resolusi tablet smartphone
    dan komputer
 
