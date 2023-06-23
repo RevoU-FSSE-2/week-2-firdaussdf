@@ -53,7 +53,8 @@ menggunakan css flex untuk centering dengan perintah
 5.Responsive web design Media query
 
    menggunakan perintah pada css untuk menyesuaikan dengan resolusi tablet smartphone
-   dan komputer
+   dan komputer![web saya pada seluler](https://github.com/RevoU-FSSE-2/week-2-firdaussdf/assets/137057784/817de8a0-3354-4998-bcb7-15bb1304e64c)
+   contoh pada web pada selular
 
 
 
